@@ -1,0 +1,80 @@
+.plan2{
+    padding: 30px;
+}
+
+.ds-1 ,.ds-2,.ds-3,.ds-4,.ds-5{
+    padding: 15px;
+    
+ }
+
+.plan2 > .ds-1 {
+    border-left: 3px solid red;
+  
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    }
+
+
+.plan2 > .ds-2 {
+
+        border-left: 3px solid grey;
+      
+        margin-left: 30px;
+        color: gray;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        
+ }
+
+
+ .plan2 > .ds-3 {
+
+    border-left: 3px solid grey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    color: gray;
+    
+}
+
+
+.plan2 > .ds-4 {
+
+    border-left: 3px solid grey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    color: gray;
+    
+}
+
+@media screen and (min-width: 680px) and (max-width: 1000px){
+    .plan2{
+        padding-left: 100px;
+        padding-right: 100px; 
+        
+    }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1400px){
+    .plan2{
+        padding-left: 300px;
+        padding-right: 100px;
+        
+    }
+}
+
+@media screen and (min-width: 1400px) and (max-width: 1804px){
+    .plan2{
+        padding-left: 400px;
+        padding-right: 100px;
+        
+    }
+}
+
+
+
+
+

@@ -1,0 +1,100 @@
+.container {
+    box-shadow: 0 5px 9px 0 rgba(0,0,0,0.2);
+    /* padding: 10px 10px; */
+    text-align: justify;
+    border: none;
+    width: 80%;
+    border-radius: 25px;
+    margin: 20px ;
+    background-color: white;
+    height: fit-content;
+}
+
+.card-section{
+    padding: 30px;
+    background-color: rgb(247, 240, 240);
+}
+
+
+.container-h{
+
+    padding:10px;
+}
+
+.container-p{
+    padding: 10px;
+}
+
+.container-h .color{
+    float: right;
+    color: blueviolet;
+}
+
+.container-h .color2{
+    float: right;
+}
+
+
+@media screen and (min-width: 680px) and (max-width: 1000px){
+
+
+    /* .container{
+        padding-left: 100px;
+    } */
+
+    .card-section{
+        padding-left: 100px;
+        padding-right: 100px;
+        margin-left: 5%;
+        margin-right: 5%;
+        border-radius: 25px;
+    }
+          
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1400px){
+    .card-section{
+        padding-left: 200px;
+        padding-right: 200px;
+        margin-left: 8%;
+        margin-right: 8%;
+        border-radius: 25px;
+    }
+}
+
+@media screen and (min-width: 1400px) and (max-width: 1804px){
+    .card-section{
+        padding-left: 300px;
+        padding-right: 300px;
+        margin-left: 10%;
+        margin-right: 10%;
+        border-radius: 25px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media screen and (min-width: 680px) and (max-width: 1000px){
+
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1400px){
+
+}
+
+@media screen and (min-width: 1400px) and (max-width: 1804px){
+} */

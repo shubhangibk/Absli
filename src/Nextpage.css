@@ -1,0 +1,12 @@
+.centre{
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+}
+
+.back{
+    margin-left: 45%;
+    background-color: brown;
+    border-radius: 5px;
+    color: white;
+}

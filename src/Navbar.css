@@ -1,0 +1,41 @@
+.navbar1{
+    background-color: rgb(223, 39, 39);
+}
+
+.navbar1 img{
+    padding: 25px;
+    width: 200px;
+}
+
+.navbar2{
+    background: #da9089;
+    color:white;
+}
+
+.navbar2 div{
+    padding:5px ;
+    
+}
+
+.navbar3{
+    background-color: darkred;
+    color:white;
+
+}
+
+.navbar3 div{
+    padding:5px ;
+}
+
+
+.nav2{
+    display: inline;
+}
+
+
+
+.menu{
+   margin-left: 200px;
+}
+
+

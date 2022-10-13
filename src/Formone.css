@@ -1,0 +1,22 @@
+.formpage1{
+    padding: 10px;
+    padding-top: 50px;
+    /* background-color: bisque; */
+    height:300px;
+}
+
+.formpage1 input{
+    width:40%;
+    
+    margin:10px;
+    border-radius: 8px;
+    width:40%;
+}
+
+.formpage1 select{
+    width:40%;
+    
+    margin:10px;
+    border-radius: 8px;
+    width:40%;
+}
